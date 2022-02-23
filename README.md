@@ -3,6 +3,8 @@ Demonstrating the lifecycle of the App and ViewController
 
 [All functions are describing in debug console, manupulate App as you wish]
 
+Feel free to use 🙂
+
 
 ![Screenshot 2022-02-23 at 18 34 26](https://user-images.githubusercontent.com/90447243/155353022-b6622603-1c8a-4b95-bd4b-593b2533e001.png)
 
